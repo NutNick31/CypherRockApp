@@ -1,0 +1,9 @@
+{
+  "UnsignedTx": "0x01eb0180850ba43b740082520894eaafee2d138187b98658efccc40557d1bc59bad0880de0b6b3a764000080c0",
+  "ParsedTx": {
+    "from": "0xEAaFEE2d138187b98658efcCc40557D1bc59bAd0",
+    "to": "0xEAaFEE2d138187b98658efcCc40557D1bc59bAd0",
+    "value": "1 ETH",
+    "gas": "21000"
+  }
+}
